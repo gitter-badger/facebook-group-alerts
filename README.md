@@ -1,5 +1,7 @@
 # Facebook Group Alerts
 
+[![Join the chat at https://gitter.im/eladnava/facebook-group-alerts](https://badges.gitter.im/eladnava/facebook-group-alerts.svg)](https://gitter.im/eladnava/facebook-group-alerts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This tool automatically notifies you of interesting posts published in preconfigured Facebook groups. It runs every hour, fetching each group's feed and marking each post as interesting or garbage, based on the configurable `whitelist` and `blacklist` rules. Once an interesting post is detected, it automatically sends an e-mail alert to preconfigured e-mails with the post link and content.
 
 ## Use Case
